@@ -1,0 +1,97 @@
+Text,Sentiment,Source,cleaned,vader_scores,blob_scores
+"""I love this product!""",1,Others,love product,1,1
+"""The service was terrible.""",0, Yelp Reviews,service terrible,0,0
+"""This movie is amazing!""",1, IMDb,movie amazing,1,1
+"""I'm so disappointed with their customer support.""",0,Others,disappointed customer support,0,0
+"""Just had the best meal of my life!""",1, TripAdvisor,best meal life,1,1
+"""The quality of this product is subpar.""",0,Others,quality product subpar,1,1
+"""I can't stop listening to this song. It's incredible!""",1, Spotify,stop listening song incredible,0,1
+"""Their website is so user-friendly. Love it!""",1,Others,website user friendly love,1,1
+"""I loved the movie! It was fantastic!""",1, IMDb,loved movie fantastic,1,1
+"""The customer service was terrible.""",0, Yelp Reviews,customer service terrible,0,0
+"""This book made me feel inspired. Highly recommended!""",1, Goodreads,book made feel inspired highly recommended,1,1
+"""I'm extremely disappointed with their product quality.""",0, Online Store,extremely disappointed product quality,0,0
+"""Just had the most amazing vacation! I can't wait to go back.""",1, TripAdvisor,amazing vacation wait go back,1,1
+"""The food at this restaurant was awful. Never going back again!""",0, Zomato,food restaurant awful never going back,0,0
+"""I can't stop listening to this song. It's my new favorite!""",1, Spotify,stop listening song new favorite,1,1
+"""Their website is so confusing and poorly designed.""",0, Website Review,website confusing poorly designed,0,0
+"""I had an incredible experience at the theme park. So much fun!""",1,Others,incredible experience theme park much fun,1,1
+"""The product arrived damaged. Very disappointed.""",0, Online Store,product arrived damaged disappointed,0,0
+"""The concert was absolutely breathtaking. Best performance ever!""",1,Others,concert absolutely breathtaking best performance ever,1,1
+"""I had a terrible experience with their customer support.""",0,Others,terrible experience customer support,0,0
+"""This movie is a masterpiece! I was blown away.""",1, IMDb,movie masterpiece blown away,1,1
+"""The customer service at this store is top-notch.""",1, Yelp Reviews,customer service store top notch,1,1
+"""I'm disappointed with the ending of this book. It fell flat.""",0, Goodreads,disappointed ending book fell flat,0,0
+"""The product I received was damaged. Unacceptable.""",0, Online Store,product received damaged unacceptable,0,1
+"""Just had the worst flight experience. Delayed and rude staff.""",0,Others,worst flight experience delayed rude staff,0,0
+"""The hotel stay was absolutely amazing! Luxury at its finest.""",1, TripAdvisor,hotel stay absolutely amazing luxury finest,1,1
+"""The food at this restaurant was outstanding. Highly recommended!""",1, Zomato,food restaurant outstanding highly recommended,1,1
+"""This playlist is my go-to for workouts. Energizing and motivating!""",1, Spotify,playlist go workouts energizing motivating,1,1
+"""I had a frustrating experience navigating through their website.""",0, Website Review,frustrating experience navigating website,0,0
+"""The roller coaster ride was thrilling! Heart-pounding excitement!""",1,Others,roller coaster ride thrilling heart pounding excitement,1,1
+"""The product I ordered never arrived. Terrible service.""",0, Online Store,product ordered never arrived terrible service,1,0
+"""I can't get enough of this band. Their music is incredible!""",1,Others,get enough band music incredible,1,1
+"""I had a great chat with their customer support. Helpful and friendly.""",1,Others,great chat customer support helpful friendly,1,1
+"""This restaurant has the most delicious food. I can't wait to go back!""",1, TripAdvisor,restaurant delicious food wait go back,1,1
+"""The product I purchased broke within a week. Poor quality.""",0, Online Store,product purchased broke within week poor quality,0,0
+"""This book is thought-provoking and beautifully written. Highly recommended!""",1, Goodreads,book thought provoking beautifully written highly recommended,1,1
+"""The customer service at this store is exceptional. They went above and beyond.""",1,Others,customer service store exceptional went beyond,1,1
+"""I had a terrible experience with their technical support. No resolution.""",0,Others,terrible experience technical support resolution,0,0
+"""The live concert was electrifying! The band's energy was contagious.""",1,Others,live concert electrifying band energy contagious,0,1
+"""I'm disappointed with the food at this restaurant. It was tasteless.""",0, Zomato,disappointed food restaurant tasteless,0,0
+"""This song always puts me in a good mood. It's my go-to feel-good track!""",1, Spotify,song always puts good mood go feel good track,1,1
+"""The website is slow and unresponsive. Difficult to navigate.""",0, Website Review,website slow unresponsive difficult navigate,0,0
+"""The roller coaster ride was exhilarating! Pure adrenaline rush!""",1,Others,roller coaster ride exhilarating pure adrenaline rush,1,1
+"""The product I ordered arrived damaged. Very disappointed with the packaging.""",0, Online Store,product ordered arrived damaged disappointed packaging,0,0
+"""I'm captivated by this band's unique sound. They're a breath of fresh air!""",1,Others,captivated band unique sound breath fresh air,1,1
+"""The customer support was quick to respond and resolved my issue. Impressed!""",1,Others,customer support quick respond resolved issue impressed,1,1
+"""This restaurant has the best food. I highly recommend it!""",1, Yelp Reviews,restaurant best food highly recommend,1,1
+"""The plot of this movie is confusing and hard to follow.""",0, IMDb,plot movie confusing hard follow,0,0
+"""I'm addicted to this game. It's so much fun!""",1,Others,addicted game much fun,1,0
+"""The customer service at this hotel was terrible. Avoid at all costs.""",0,Others,customer service hotel terrible avoid costs,0,0
+"""This book bored me to tears. I couldn't finish it.""",0, Goodreads,book bored tears finish,0,0
+"""I'm impressed with the sound quality of these headphones. Excellent!""",1, Online Store,impressed sound quality headphones excellent,1,1
+"""The website design is sleek and user-friendly. Easy to navigate.""",1,Others,website design sleek user friendly easy navigate,1,1
+"""I had a terrible experience with their delivery service. Late and unprofessional.""",0, Online Store,terrible experience delivery service late unprofessional,0,0
+"""The concert was mind-blowing! The band knows how to put on a show.""",1,Others,concert mind blowing band knows put show,1,1
+"""I'm extremely disappointed with the customer support. No resolution.""",0,Others,extremely disappointed customer support resolution,0,0
+"""The hotel staff were rude and unprofessional. Terrible customer service.""",0,Others,hotel staff rude unprofessional terrible customer service,0,0
+"""The food at this restaurant was mediocre. Nothing special.""",0, Zomato,food restaurant mediocre nothing special,0,0
+"""This song always puts me in a nostalgic mood. It reminds me of good times.""",1, Spotify,song always puts nostalgic mood reminds good times,1,1
+"""The website loading speed is frustratingly slow. Needs improvement.""",0, Website Review,website loading speed frustratingly slow needs improvement,1,0
+"""The food at this cafe exceeded my expectations. Absolutely delicious!""",1,Others,food cafe exceeded expectations absolutely delicious,1,1
+"""I'm disappointed with the ending of this TV show. It left too many unanswered questions.""",0,Others,disappointed ending tv show left many unanswered questions,0,0
+"""This album is a masterpiece. Every song is a work of art!""",1,Others,album masterpiece every song work art,1,1
+"""The website layout is cluttered and confusing. Difficult to find information.""",0, Website Review,website layout cluttered confusing difficult find information,0,0
+"""The roller coaster at this theme park is a thrilling experience. A must-try!""",1,Others,roller coaster theme park thrilling experience must try,1,1
+"""The product I ordered never arrived. Poor customer service.""",0, Online Store,product ordered never arrived poor customer service,1,0
+"""I'm in awe of this artist's talent. Their paintings are breathtaking!""",1,Others,awe artist talent paintings breathtaking,1,1
+"""The food at this restaurant was disappointing. Not worth the price.""",0, Zomato,food restaurant disappointing worth price,0,0
+"""This playlist is perfect for relaxation. Soothing and calming!""",1, Spotify,playlist perfect relaxation soothing calming,1,1
+"""The website navigation is smooth and intuitive. I found what I needed quickly.""",1,Others,website navigation smooth intuitive found needed quickly,1,1
+"""The ride on this cruise ship was an unforgettable experience. I loved every moment!""",1,Others,ride cruise ship unforgettable experience loved every moment,1,1
+"""The product I received was of poor quality. It broke after a few uses.""",0, Online Store,product received poor quality broke uses,0,0
+"""This book kept me hooked from start to finish. A captivating read!""",1, Goodreads,book kept hooked start finish captivating read,1,1
+"""The customer service at this store is outstanding. They truly care about their customers.""",1,Others,customer service store outstanding truly care customers,1,1
+"""I had a frustrating experience with their technical support. No resolution provided.""",0,Others,frustrating experience technical support resolution provided,0,0
+"""The hotel staff were rude and unprofessional. Terrible customer service.""",0,Others,hotel staff rude unprofessional terrible customer service,0,0
+"""The food at this restaurant was mediocre. Nothing special.""",0, Zomato,food restaurant mediocre nothing special,0,0
+"""This song always puts me in a nostalgic mood. It reminds me of good times.""",1, Spotify,song always puts nostalgic mood reminds good times,1,1
+"""The website loading speed is frustratingly slow. Needs improvement.""",0, Website Review,website loading speed frustratingly slow needs improvement,1,0
+"""I love this product!""",1,Others,love product,1,1
+"""The service was terrible.""",0, Yelp Reviews,service terrible,0,0
+"""This movie is amazing!""",1, IMDb,movie amazing,1,1
+"""I'm so disappointed with their customer support.""",0,Others,disappointed customer support,0,0
+"""Just had the best meal of my life!""",1, TripAdvisor,best meal life,1,1
+"""The quality of this product is subpar.""",0,Others,quality product subpar,1,1
+"""I can't stop listening to this song. It's incredible!""",1, Spotify,stop listening song incredible,0,1
+"""Their website is so user-friendly. Love it!""",1,Others,website user friendly love,1,1
+"""I loved the movie! It was fantastic!""",1, IMDb,loved movie fantastic,1,1
+"""The customer service was terrible.""",0, Yelp Reviews,customer service terrible,0,0
+"""This book made me feel inspired. Highly recommended!""",1, Goodreads,book made feel inspired highly recommended,1,1
+"""I'm extremely disappointed with their product quality.""",0, Online Store,extremely disappointed product quality,0,0
+"""Just had the most amazing vacation! I can't wait to go back.""",1, TripAdvisor,amazing vacation wait go back,1,1
+"""The food at this restaurant was awful. Never going back again!""",0, Zomato,food restaurant awful never going back,0,0
+"""I can't stop listening to this song. It's my new favorite!""",1, Spotify,stop listening song new favorite,1,1
+"""Their website is so confusing and poorly designed.""",0, Website Review,website confusing poorly designed,0,0
+"""I had an incredible experience at the theme park. So much fun!""",1,Others,incredible experience theme park much fun,1,1

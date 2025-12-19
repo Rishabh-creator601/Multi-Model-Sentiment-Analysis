@@ -1,0 +1,12 @@
+
+
+deploy it on :
+
+streamlit 
+kaggle 
+fiverr (video)  ✔️
+medium article 
+
+
+
+Link to github : https://github.com/Rishabh-creator601/Machine_Learning_rock/blob/master/practical_coding/nlp_dl_coding/pkgs_text/vader_sentiment.ipynb
