@@ -15,6 +15,6 @@ st.dataframe(df)
 
 
 
-st.image("models\graph1.png")
+st.image("models/graph1.png")
 
-st.image("models\graph2.png")
+st.image("models/graph2.png")
