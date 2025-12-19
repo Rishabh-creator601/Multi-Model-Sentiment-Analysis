@@ -19,12 +19,8 @@ Machine Learning models (Gaussian Naive Bayes, Random Forest, XGBoost)
 All model outputs are shown together, and a final sentiment decision is generated based on the combined result.
 This project is mainly focused on learning, comparison, and practical implementation of NLP sentiment techniques.
 
-🔄 Application Flow
 
-![Image](https://github.com/user-attachments/assets/562f7978-72cb-4c63-8de0-7aa529c19d24)
-
-
-🛠 Tech Stack
+#3 🛠 Tech Stack
 
 - Python
 - Streamlit
