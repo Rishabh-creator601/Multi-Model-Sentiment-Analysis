@@ -6,7 +6,7 @@
 **MEDIUM ARTICLE : [Here](https://medium.com/h7w/04e9604e27b8)**
 
 
-https://github.com/user-attachments/assets/bcc09369-41ee-4efc-b5cd-2071d2dddc79
+![Image](https://github.com/user-attachments/assets/bcc09369-41ee-4efc-b5cd-2071d2dddc79)
 
 ## 📌 Project Description
 
