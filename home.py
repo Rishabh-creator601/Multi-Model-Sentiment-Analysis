@@ -1,9 +1,19 @@
 import streamlit as st
-from loader  import extract_score,sentiment_analyzer,vader_model,analyze
 import pandas as pd 
+import os 
 
-import nltk 
-nltk.downloader.download('vader_lexicon')
+import nltk
+
+@st.cache_resource
+def download_vader():
+    nltk.download('vader_lexicon')
+
+download_vader()
+
+from loader  import extract_score,sentiment_analyzer,vader_model,analyze
+
+
+#######################################################################
 
 st.title("Multi Model Sentiment Evaluation")
 
