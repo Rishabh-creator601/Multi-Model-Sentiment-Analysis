@@ -20,7 +20,7 @@ All model outputs are shown together, and a final sentiment decision is generate
 This project is mainly focused on learning, comparison, and practical implementation of NLP sentiment techniques.
 
 
-#3 🛠 Tech Stack
+## 🛠 Tech Stack
 
 - Python
 - Streamlit
